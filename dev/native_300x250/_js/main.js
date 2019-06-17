@@ -1,6 +1,7 @@
-const tl = new TimelineMax()
+import '../../_common/js/common.js'
+// const tl = new TimelineMax()
 
-tl.to('.frame1', 1.2, {x:-300, ease:Back.easeOut}, 5)
+// tl.to('.frame1', 1.2, {x:-300, ease:Back.easeOut}, 5)
 
 
 
